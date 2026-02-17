@@ -1,4 +1,4 @@
 # Tech-demo
 This is my first Git Repository.
 <br>
-Author - Rita
+Author - Rita ( Rita-tech)
